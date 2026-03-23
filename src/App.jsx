@@ -621,7 +621,7 @@ export default function App() {
                   <br/>to'y kunidan <strong style={{color:"var(--deep)"}}>3 kun oldin</strong> qo'ng'iroq
                   <br/>qilishingizni so'raymiz.
                 </p>
-                <span className="rsvp-phone">{RSVP_PHONE}</span>
+                <span className="rsvp-phone">...</span>
                 <p className="rsvp-note">Siz bilan bo'lishimizdan xursandmiz</p>
               </div>
 
